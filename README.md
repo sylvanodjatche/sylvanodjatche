@@ -9,7 +9,7 @@ I build intelligent, scalable systems that solve concrete academic and industria
 
 ## 🚀 Featured Frameworks & Applications
 
-### 🧬 [GENEO (geneo-front)](https://github.com/sylvanodjatche/geneo-front)
+### 🧬 [GENEO (geneo)](https://github.com/sylvanodjatche/geneo-front)
 *   **Description:** An advanced bioinformatics application predicting protein functions. It leverages **ESM2** (Evolutionary Scale Modeling) state-of-the-art embeddings combined with **Graph Convolutional Networks (GCNs)**.
 *   **Tech Stack:** Python, PyTorch Geometric, ESM2, React.js / Vue.js, Flask/FastAPI.
 
