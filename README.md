@@ -7,7 +7,7 @@ I build intelligent, scalable systems that solve concrete academic and industria
 
 ---
 
-## 🚀 Featured Frameworks & Applications
+##  Featured Frameworks & Applications
 
 ### 🧬 [GENEO (geneo)](https://github.com/sylvanodjatche/geneo-front)
 *   **Description:** An advanced bioinformatics application predicting protein functions. It leverages **ESM2** (Evolutionary Scale Modeling) state-of-the-art embeddings combined with **Graph Convolutional Networks (GCNs)**.
@@ -39,7 +39,7 @@ I build intelligent, scalable systems that solve concrete academic and industria
 
 ---
 
-## 📊 Git Activity & Metrics
+##  Git Activity & Metrics
 
 <p align="left">
   <img src="https://img.shields.io/github/followers/sylvanodjatche?label=Followers&style=for-the-badge&color=2ecc71&labelColor=2c3e50" alt="Followers" />
