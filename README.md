@@ -42,17 +42,12 @@ I build intelligent, scalable systems that solve concrete academic and industria
 ## 📊 Git Activity & Metrics
 
 <p align="left">
-  <a href="https://github.com/sylvanodjatche">
-    <img src="https://img.shields.io/github/followers/sylvanodjatche?label=Followers&style=for-the-badge&color=2ecc71&labelColor=2c3e50" alt="Followers" />
-  </a>
-  <a href="https://github.com/sylvanodjatche">
-    <img src="https://img.shields.io/github/stars/sylvanodjatche?label=Stars%20Earned&style=for-the-badge&color=f1c40f&labelColor=2c3e50" alt="Stars" />
-  </a>
-  <a href="https://github.com/sylvanodjatche">
-    <img src="https://img.shields.io/github/repo-count/sylvanodjatche?label=Repositories&style=for-the-badge&color=3498db&labelColor=2c3e50" alt="Repositories" />
-  </a>
+  <img src="https://img.shields.io/github/followers/sylvanodjatche?label=Followers&style=for-the-badge&color=2ecc71&labelColor=2c3e50" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/sylvanodjatche?label=Stars%20Earned&style=for-the-badge&color=f1c40f&labelColor=2c3e50" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=sylvanodjatche&label=Profile%20Views&color=3498db&style=for-the-badge" alt="Profile Views" />
 </p>
 
+---
 ---
 ---
 
