@@ -40,11 +40,20 @@ I build intelligent, scalable systems that solve concrete academic and industria
 ---
 
 ## 📊 Git Activity & Metrics
+
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sylvanodjatche&show_icons=true&theme=tokyonight&count_private=true" alt="Sylvano's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sylvanodjatche&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180px" />
+  <a href="https://github.com/sylvanodjatche">
+    <img src="https://img.shields.io/github/followers/sylvanodjatche?label=Followers&style=for-the-badge&color=2ecc71&labelColor=2c3e50" alt="Followers" />
+  </a>
+  <a href="https://github.com/sylvanodjatche">
+    <img src="https://img.shields.io/github/stars/sylvanodjatche?label=Stars%20Earned&style=for-the-badge&color=f1c40f&labelColor=2c3e50" alt="Stars" />
+  </a>
+  <a href="https://github.com/sylvanodjatche">
+    <img src="https://img.shields.io/github/repo-count/sylvanodjatche?label=Repositories&style=for-the-badge&color=3498db&labelColor=2c3e50" alt="Repositories" />
+  </a>
 </p>
 
+---
 ---
 
 ## 📬 Connect with Me
