@@ -31,7 +31,7 @@ I build intelligent, scalable systems that solve concrete academic and industria
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Data Science & AI** | Python, TensorFlow, Keras, Scikit-Learn, Pandas, PyTorch Geometric, Kaggle |
+| **Data Science & AI** | Python, TensorFlow, Keras, Scikit-Learn, Pandas, PyTorch Geometric, Kaggle,Hugging Face |
 | **Graph & Databases** | Neo4j, PostgreSQL, MySQL |
 | **Backend & Web** | FastAPI, Flask, Java, C, C++, Jinja2 |
 | **Frontend & Design** | HTML5, CSS3, JavaScript, React, Vue.js, Tailwind CSS, Bootstrap |
