@@ -9,25 +9,25 @@ I build intelligent, scalable systems that solve concrete academic and industria
 
 ##  Featured Frameworks & Applications
 
-### 🧬 [GENEO (geneo)](https://github.com/sylvanodjatche/geneo-front)
+###  [GENEO (geneo)](https://github.com/sylvanodjatche/geneo-front)
 *   **Description:** An advanced bioinformatics application predicting protein functions. It leverages **ESM2** (Evolutionary Scale Modeling) state-of-the-art embeddings combined with **Graph Convolutional Networks (GCNs)**.
 *   **Tech Stack:** Python, PyTorch Geometric, ESM2, React.js / Vue.js, Flask/FastAPI.
 
-### 🏛️ [UNIGRAPH (unigraph-cloud)](https://github.com/sylvanodjatche/unigraph-cloud)
+###  [UNIGRAPH (unigraph-cloud)](https://github.com/sylvanodjatche/unigraph-cloud)
 *   **Description:** The official AI knowledge assistant for the University of Yaoundé 1. Built using a robust **GraphRAG** pipeline to index university structures and rulebooks, enabling lightning-fast contextual answers.
 *   **Tech Stack:** GraphRAG, Neo4j (Graph DB), Groq API, Python, Tailwind CSS.
 
-### 🖼️ [Sylvano Image (sylvano_image)](https://github.com/sylvanodjatche/sylvano_image)
+###  [Sylvano Image (sylvano_image)](https://github.com/sylvanodjatche/sylvano_image)
 *   **Description:** A dedicated desktop/web application focusing on high-performance image processing algorithms and computer vision manipulations.
 *   **Tech Stack:** Python, OpenCV, NumPy, Tkinter/Flask.
 
-### 📊 [MGP Tracker / Cohort Calculator](https://grademaster-sylvano.netlify.app/)
+###  [MGP Tracker / Cohort Calculator](https://grademaster-sylvano.netlify.app/)
 *   **Description:** A custom GPA/MGP tracking system designed for university students to simulate and monitor academic performances. Currently actively used by our entire promotion at UY1.
 *   **Tech Stack:** JavaScript, HTML/CSS, Jinja2, PostgreSQL.
 
 ---
 
-## 🛠️ Technical Toolbox
+##  Technical Toolbox
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -51,7 +51,7 @@ I build intelligent, scalable systems that solve concrete academic and industria
 ---
 ---
 
-## 📬 Connect with Me
+##  Connect with Me
 *   **LinkedIn:** [linkedin.com/in/sylvano-djatche](https://www.linkedin.com/in/sylvano-djatche-3141282b7)
 *   **Live Portfolio:** [zingy-vacherin-bc6475.netlify.app](https://zingy-vacherin-bc6475.netlify.app)
 *   **Email:** djatchesylvano@gmail.com
