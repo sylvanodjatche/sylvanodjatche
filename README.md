@@ -21,7 +21,7 @@ I build intelligent, scalable systems that solve concrete academic and industria
 *   **Description:** A dedicated desktop/web application focusing on high-performance image processing algorithms and computer vision manipulations.
 *   **Tech Stack:** Python, OpenCV, NumPy, Tkinter/Flask.
 
-### 📊 [MGP Tracker / Cohort Calculator](https://github.com/sylvanodjatche/portfolio)
+### 📊 [MGP Tracker / Cohort Calculator](https://grademaster-sylvano.netlify.app/)
 *   **Description:** A custom GPA/MGP tracking system designed for university students to simulate and monitor academic performances. Currently actively used by our entire promotion at UY1.
 *   **Tech Stack:** JavaScript, HTML/CSS, Jinja2, PostgreSQL.
 
